@@ -1,10 +1,8 @@
-### Hi there 👋
 
-<!--
-**Gabby948/Gabby948** is a ✨ _unique_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+https://github.com/Gabby948/Gabby948/blob/main/code%20design.png?raw=true
 
 
-Here are some ideas to get you started:
+
 # 💻 I’m currently studying in Laboratoria.
 # 🔭 I’m currently working on the Mdlinks project.
 # 🌱 I’m currently learning Javascript, Node.js, and Jest.
@@ -15,4 +13,3 @@ Here are some ideas to get you started:
 # ⚡ Fun fact: I love designing and learning languages.
 # 🇯🇵   I am currently studying Japanese
 # 📚 Other languages that I have studied are: Korean, Chinese, French, and Russian (I don't remember this much anymore since it was a long time ago)
--->
