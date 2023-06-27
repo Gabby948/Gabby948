@@ -1,7 +1,6 @@
 
 ![image](https://github.com/Gabby948/Gabby948/assets/125084134/380a3689-1fcb-4d06-8f36-e032e57ac03b)
 
-![Gitlab code coverage (self-managed, specific job)](https://img.shields.io/gitlab/pipeline-coverage/:project)
 ![Static Badge](https://img.shields.io/badge/Javascript%20-%20orange)
 ![Static Badge](https://img.shields.io/badge/CSS%20-%20blue)
 ![Static Badge](https://img.shields.io/badge/HTML%20-%20coral)
