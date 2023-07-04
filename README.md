@@ -20,4 +20,5 @@
 * 🇯🇵   I am currently studying Japanese
 * 📚 Other languages that I have studied are Korean, Chinese, and French.
 * 
-https://github.com/Gabby948/Gabby948/blob/main/octocat-1688480619817.png?raw=true
+![image](https://github.com/Gabby948/Gabby948/assets/125084134/3777ecab-f77a-4f2d-8fa5-49ba513fc526)
+
