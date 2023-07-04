@@ -16,6 +16,7 @@
   * 😄 Pronouns: Gabby and Gabs
   * 📚 Other languages that I have studied are Korean, Chinese, and French.
   * 🇯🇵   I am currently studying Japanese.
-    ![image](https://github.com/Gabby948/Gabby948/assets/125084134/205f99d1-cd62-438a-85b6-c15c622949d9)
+    
+![image](https://github.com/Gabby948/Gabby948/assets/125084134/4ef294eb-f06a-443d-9451-94c18236e0d0)
 
 
