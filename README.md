@@ -19,3 +19,5 @@
 * ⚡ Fun fact: I love designing and learning languages.
 * 🇯🇵   I am currently studying Japanese
 * 📚 Other languages that I have studied are Korean, Chinese, and French.
+* 
+https://github.com/Gabby948/Gabby948/blob/main/octocat-1688480619817.png?raw=true
