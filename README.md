@@ -16,8 +16,27 @@
   * 😄 Pronouns: Gabby and Gabs
   * 📚 Other languages that I have studied are Korean, Chinese, and French.
   * 🇯🇵   I am currently studying Japanese.
+
+     <div id="octo-content">
+  <ul align="center">
     
 ![image](https://github.com/Gabby948/Gabby948/assets/125084134/4ef294eb-f06a-443d-9451-94c18236e0d0)
+  </ul>
+</div>
+
+<!--h1 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
+  </ul>
+</div>
+<!--tech stack icons-->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,aws,bootstrap,c,cpp,css,discord,docker,dynamodb,express,figma,firebase,github,html,idea,java,js,kotlin,linux,md,materialui,mongodb,mysql,nextjs,nodejs,postman,py,react,redux,tailwind,ts,vscode&perline=14" />
+  </a>
+</p>
+
 
 <!-- Connect with me -->
 <!--h2 without bottom border-->
