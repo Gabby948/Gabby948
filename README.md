@@ -45,7 +45,7 @@
   
 </p>
 
-     <div id="octo-content">
+  <div id="octo-content">
   <ul align="center">
     
 ![image](https://github.com/Gabby948/Gabby948/assets/125084134/4ef294eb-f06a-443d-9451-94c18236e0d0)
