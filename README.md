@@ -1,11 +1,6 @@
 
 ![image](https://github.com/Gabby948/Gabby948/assets/125084134/380a3689-1fcb-4d06-8f36-e032e57ac03b)
 
-![Static Badge](https://img.shields.io/badge/Javascript%20-%20orange)
-![Static Badge](https://img.shields.io/badge/CSS%20-%20blue)
-![Static Badge](https://img.shields.io/badge/HTML%20-%20coral)
-![Static Badge](https://img.shields.io/badge/Node.js%20-%20green)
-![Static Badge](https://img.shields.io/badge/Jest%20-%20green%20light)
 
   * 💻 I’m currently studying in Laboratoria.                                    
   * 🔭 I’m currently working on the Mdlinks project.                                                                                                                                 
@@ -17,12 +12,6 @@
   * 📚 Other languages that I have studied are Korean, Chinese, and French.
   * 🇯🇵   I am currently studying Japanese.
 
-     <div id="octo-content">
-  <ul align="center">
-    
-![image](https://github.com/Gabby948/Gabby948/assets/125084134/4ef294eb-f06a-443d-9451-94c18236e0d0)
-  </ul>
-</div>
 
 <!--h1 without bottom border-->
 <div id="user-content-toc">
@@ -33,7 +22,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,aws,javascript,bootstr,c,cpp,css,discord,express,figma,firebase,github,html,java,js,linux,mongodb,mysql,nodejs,react,vscode&" />
+    <img src="https://skillicons.dev/icons?i=git,aws,javascript,bootstr,npm,css,python,discord,express,figma,firebase,github,html,java,linux,MySQL,jest,nodejs,react,vscode&" />
   </a>
 </p>
 
@@ -56,4 +45,10 @@
   
 </p>
 
+     <div id="octo-content">
+  <ul align="center">
+    
+![image](https://github.com/Gabby948/Gabby948/assets/125084134/4ef294eb-f06a-443d-9451-94c18236e0d0)
+  </ul>
+</div>
 
