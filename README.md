@@ -1,5 +1,6 @@
 
-![image](https://github.com/Gabby948/Gabby948/assets/125084134/380a3689-1fcb-4d06-8f36-e032e57ac03b)
+![image](https://github.com/Gabby948/Gabby948/assets/125084134/88bd5251-3cb0-43b0-9180-18a3dc34958a)
+
 Hi! I'm Gabby!
 About me! 
   * 💻 I’m currently studying in Laboratoria.                                    
