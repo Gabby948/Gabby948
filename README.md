@@ -1,12 +1,10 @@
 
 ![image](https://github.com/Gabby948/Gabby948/assets/125084134/380a3689-1fcb-4d06-8f36-e032e57ac03b)
-
-
+Hi! I'm Gabby!
+About me! 
   * 💻 I’m currently studying in Laboratoria.                                    
-  * 🔭 I’m currently working on the Mdlinks project.                                                                                                                                 
-  * 🌱 I’m currently learning Javascript, Node.js, and Jest.                                                                                                                         
-  * 👯 I’m looking to collaborate on Javascript projects.                                                                                                                            
-  * 💬 Ask me about collaborating.                                                                                                                                                    
+  * 🔭 I’m currently working on a Burger Queen Api Client project.                                                                                                                         
+  * 👯 I’m looking to collaborate on Javascript and Python projects.                                                                                                                         
   * 📫 How to reach me: on LinkedIn and here! In GitHub.                                                                                                                           
   * 😄 Pronouns: Gabby and Gabs
   * 📚 Other languages that I have studied are Korean, Chinese, and French.
@@ -22,7 +20,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,aws,javascript,bootstr,npm,css,python,discord,express,figma,firebase,github,html,java,linux,MySQL,jest,nodejs,react,vscode&" />
+    <img src="https://skillicons.dev/icons?i=git,aws,javascript,typescript,bootstr,npm,css,python,discord,express,figma,firebase,github,html,java,linux,MySQL,jest,nodejs,react,vscode&" />
   </a>
 </p>
 
