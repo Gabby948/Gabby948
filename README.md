@@ -21,7 +21,7 @@ About me!
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,aws,javascript,typescript,bootstr,npm,css,python,discord,express,figma,firebase,github,html,java,linux,MySQL,jest,nodejs,react,vscode&" />
+    <img src="https://skillicons.dev/icons?i=git,aws,javascript,typescript,npm,css,python,discord,express,figma,firebase,github,html,jest,nodejs,react,vscode&" />
   </a>
 </p>
 
@@ -44,10 +44,5 @@ About me!
   
 </p>
 
-  <div id="octo-content">
-  <ul align="center">
-    
-![image](https://github.com/Gabby948/Gabby948/assets/125084134/4ef294eb-f06a-443d-9451-94c18236e0d0)
-  </ul>
-</div>
+
 
