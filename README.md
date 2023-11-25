@@ -21,7 +21,7 @@ About me!
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,aws,javascript,typescript,npm,css,python,discord,express,figma,firebase,github,html,jest,nodejs,react,vscode&" />
+    <img src="https://skillicons.dev/icons?i=git,aws,javascript,typescript,npm,css,python,discord,express,figma,firebase,github,html,jest,nodejs,react,vscode&,cybersecurity" />
   </a>
 </p>
 
