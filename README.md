@@ -1,5 +1,5 @@
 
-![image]([https://github.com/Gabby948/Gabby948/assets/125084134/88bd5251-3cb0-43b0-9180-18a3dc34958a](https://github.com/Gabby948/Gabby948/blob/main/1.jpg?raw=true)
+![image]([https://github.com/Gabby948/Gabby948/assets/125084134/88bd5251-3cb0-43b0-9180-18a3dc34958a](https://github.com/Gabby948/Gabby948/blob/main/1.jpg?raw=true))
 
 Hi! I'm Gabby!
 About me! 
