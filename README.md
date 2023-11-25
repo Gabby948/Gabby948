@@ -3,8 +3,8 @@
 
 Hi! I'm Gabby!
 About me! 
-  * 💻 I’m currently studying in Laboratoria.                                    
-  * 🔭 I’m currently working on a Burger Queen Api Client project.                                                                                                                         
+  * 💻 I'm studying in Software Engineering.                                    
+  * 🔭 I’m currently working on web developer projects.                                                                                                                        
   * 👯 I’m looking to collaborate on Javascript and Python projects.                                                                                                                         
   * 📫 How to reach me: on LinkedIn and here! In GitHub.                                                                                                                           
   * 😄 Pronouns: Gabby and Gabs
