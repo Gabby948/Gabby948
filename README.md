@@ -3,7 +3,7 @@
 
 Hi! I'm Gabby!
 About me! 
-  * 💻 I'm studying in Software Engineering.                                    
+  * 💻 I'm a student in Software Engineering.                                    
   * 🔭 I’m currently working on web developer projects.                                                                                                                        
   * 👯 I’m looking to collaborate on Javascript and Python projects.                                                                                                                         
   * 📫 How to reach me: on LinkedIn and here! In GitHub.                                                                                                                           
