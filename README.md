@@ -1,5 +1,4 @@
 
-![image](https://github.com/Gabby948/Gabby948/blob/main/1.jpg?raw=true)
 
 Hi! I'm Gabby!
 About me! 
